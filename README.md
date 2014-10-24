@@ -5,9 +5,10 @@ The are a few parts to this:
 
 * **Retrieve data**- right now, our sources come from our Hafele.com/us account, and hardwareresources.com accounts. These modules are included separately for anyone interested. 
 
-* **Send** data. This part is designed to work with the Amazon Merchant Services, and will send order confirmations once data is retrieved. 
+* **Send** data. This part is designed to work with the Amazon Marketplace Web Services, and will send order confirmations once data is retrieved. 
 ## Collaboration
 If you are interested in working on this script, let us know. We can turn your interest into something beneficial for the project. 
 
 Thanks for reading. 
+
 -_Director of Web Sales, Cabinet Connection of NC_
